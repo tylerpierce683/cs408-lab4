@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-family: "Cinzel Decorative";
+    flex: content;
+}
+
+.header {
+    display: flex;
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li {
+    
+}
