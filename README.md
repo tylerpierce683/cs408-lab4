@@ -2,23 +2,25 @@
 
 ## Overview
 
-TODO: Write a project description
+This project was a project to test our knowledge on CSS without the use of 
+outside sources such as google.
+
+## How to run
+1. Git clone my repository
+2. Open the cloned repository in VSCode
+3. Open the VSCode command palette and type "Live preview: start server"
+4. Press enter to start the server
+5. Enjoy!
+
+## Known issues
+The navigation bar is not attached to the header portion
 
 ## Sources and Credits
-
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+Unfortunately, I wasn't able to complete the assignment without the use of 
+some outside sources. Here are the sources I used:
 
 A simple bulleted list below is sufficient. For example:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Navigation Panel: https://www.youtube.com/watch?v=f3uCSh6LIY0
+- Grid layout: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
+

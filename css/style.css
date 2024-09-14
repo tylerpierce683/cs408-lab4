@@ -65,3 +65,26 @@ a {
     margin-top: 8px;
     padding: 12px;
 }
+
+.photos {
+    display: grid;
+    grid-template-areas: 
+    "first second"
+    "third fourth";
+}
+
+img {
+    width: 150px;
+}
+
+h2 {
+    font-family: "Cinzel Decorative";
+}
+
+p {
+    font-family: "Roboto Condensed";
+}
+
+a {
+    font-family: "Roboto Condensed";
+}
